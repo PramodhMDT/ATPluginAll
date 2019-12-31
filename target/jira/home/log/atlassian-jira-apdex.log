@@ -1,0 +1,6 @@
+2019-12-31 11:01:00,025 category: jira.header.menu.admin, apdex: {apdexScore=100, satisfiedCount=4, toleratingCount=0, frustratedCount=0}
+2019-12-31 11:01:00,026 category: jira.header.menu.profile, apdex: {apdexScore=100, satisfiedCount=1, toleratingCount=0, frustratedCount=0}
+2019-12-31 11:01:00,026 category: jira.dialog.open.user-avatar-picker, apdex: {apdexScore=100, satisfiedCount=1, toleratingCount=0, frustratedCount=0}
+2019-12-31 11:01:00,026 category: jira.dashboard, apdex: {apdexScore=0, satisfiedCount=0, toleratingCount=0, frustratedCount=1}
+2019-12-31 11:01:00,027 category: jira.header.menu.projects, apdex: {apdexScore=50, satisfiedCount=0, toleratingCount=1, frustratedCount=0}
+2019-12-31 11:01:00,027 category: overall, apdex: {apdexScore=81, satisfiedCount=6, toleratingCount=1, frustratedCount=1}

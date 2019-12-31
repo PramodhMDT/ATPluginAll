@@ -1,0 +1,5 @@
+2019-12-31 09:58:34,976 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2019-12-31 10:02:51,515 http-nio-2990-exec-3 anonymous 602x2x1 - 122.166.223.37 / HttpSession created [8vm1pz]
+2019-12-31 10:04:07,490 http-nio-2990-exec-9 anonymous 604x916x1 8vm1pz 122.166.223.37 /rest/gadget/1.0/login HttpSession [8vm1pz] destroyed for 'anonymous'
+2019-12-31 10:04:07,491 http-nio-2990-exec-9 anonymous 604x916x1 8vm1pz 122.166.223.37 /rest/gadget/1.0/login HttpSession created [1gq27qq]
+2019-12-31 10:04:07,521 http-nio-2990-exec-9 admin 604x916x1 8vm1pz 122.166.223.37 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
